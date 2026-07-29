@@ -1,12 +1,12 @@
 main:
   - title: "首頁"
-    url: /
+    url: "/"
 
-  - title: "課程紀錄"
-    url: /courses/
+  - title: "主題課程"
+    url: "/courses/"
 
-  - title: "研究筆記"
-    url: /research/
+  - title: "學習單"
+    url: "/notes/"
 
-  - title: "關於"
-    url: /about/
+  - title: "參考資料"
+    url: "/about/"
