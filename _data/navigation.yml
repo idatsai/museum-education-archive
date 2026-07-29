@@ -6,7 +6,7 @@ main:
     url: "/courses/"
 
   - title: "學習單"
-    url: "/notes/"
+    url: "/learning-materials/"
 
   - title: "參考資料"
     url: "/about/"
