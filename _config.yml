@@ -17,3 +17,12 @@ plugins:
 collections:
   courses:
     output: true
+
+logo: "/assets/images/museum-class.jpg"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
