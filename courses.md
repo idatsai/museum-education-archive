@@ -31,4 +31,4 @@ classes: wide
 文化保存與知識傳播的重要媒介。
 
 
-[查看課程紀錄 →](/courses/2026-reproduction/)
+[查看課程紀錄 →](/courses/2026-reproduction/){: .btn .btn--primary}
