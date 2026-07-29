@@ -1,5 +1,6 @@
 ---
 layout: splash
+classes: wide
 title: "Museum Education Practice Archive"
 excerpt: "博物館教育實踐誌"
 header:
