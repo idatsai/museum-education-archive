@@ -1,0 +1,15 @@
+title: "Museum Education Practice Archive"
+subtitle: "博物館教育實踐誌"
+
+description: >
+  博物館教育課程設計、
+  教學實踐與學習成果紀錄。
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+minimal_mistakes_skin: "default"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-include-cache
