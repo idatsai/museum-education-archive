@@ -3,6 +3,9 @@ layout: single
 title: "真跡與複製品：博物館是否只能收藏真跡？"
 permalink: /courses/2026-reproduction/
 classes: wide
+header:
+  overlay_image: /assets/images/courses/2026-reproduction/cover.jpg
+  overlay_filter: 0.3
 ---
 
 # 真跡與複製品：
