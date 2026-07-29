@@ -28,3 +28,5 @@ defaults:
       type: pages
     values:
       layout: single
+navigation:
+  main: main
