@@ -13,3 +13,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-include-cache
+
+collections:
+  courses:
+    output: true
